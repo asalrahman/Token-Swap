@@ -26,7 +26,9 @@
     "prettier": "^2.4.1",
     "prettier-plugin-solidity": "^1.0.0-beta.19",
     "solhint": "^3.3.6",
-    "solidity-coverage": "^0.7.13"
+    "solidity-coverage": "^0.7.13",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
   },
   "dependencies": {
     "@chainlink/contracts": "^0.5.1",
@@ -36,7 +38,9 @@
     "@uniswap/v3-core": "^1.0.1",
     "@uniswap/v3-periphery": "^1.4.3",
     "babel-eslint": "^10.1.0",
-    "dotenv": "^10.0.0"
+    "dotenv": "^10.0.0",
+    "http-server": "^14.1.1",
+    "web3": "^4.1.1"
   },
   "main": "index.js"
 }
